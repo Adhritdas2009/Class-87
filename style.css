@@ -1,0 +1,24 @@
+.body_bg{
+    background-image: url("minecraft.jpg");
+    background-size: cover;
+    background-position:center;
+}
+
+#myCanvas{
+    border: 5px ridge grey;
+    background-color:white;
+}
+
+#c{
+    width:600px;
+    border-radius:15px;
+    margin-bottom:10px;
+}
+
+h3{
+    display:inline-block;
+}
+span{
+    font-size:22px;
+    color:white;
+}
